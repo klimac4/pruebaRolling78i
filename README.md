@@ -1,2 +1,2 @@
 # pruebaRolling78i
-Este es el primer repositorio prueba 78i
+Practica con el DOM en JavaScript yt
